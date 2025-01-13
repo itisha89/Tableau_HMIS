@@ -15,3 +15,6 @@ Data Source: Health Management & Information System (HMIS) report data for 2018-
 Data Processing: Tableau for data visualization and preprocessing.
 
 Visualization Tools: Choropleth Map, Stacked Bar Chart, Table.
+
+**Dashboard**
+![image](https://github.com/user-attachments/assets/e43f5c22-4388-4071-b122-f90b1fc4a367)
