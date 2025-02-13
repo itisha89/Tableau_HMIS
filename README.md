@@ -18,3 +18,9 @@ Visualization Tools: Choropleth Map, Stacked Bar Chart, Table.
 
 **Dashboard**
 ![image](https://github.com/user-attachments/assets/e43f5c22-4388-4071-b122-f90b1fc4a367)
+
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
